@@ -11,7 +11,6 @@ Gist about me
 
 📫 How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-Adejumo_David-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adejumo-david-a82832119/
 )
-https://www.linkedin.com/in/adejumodavid?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bph%2BmvP%2FdT9aaTQCPE15OJw%3D%3D
 
 ### 🛠 Languages and Tools 
 
