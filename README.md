@@ -27,7 +27,7 @@ Gist about me
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boy-Davis&show_icons=true&theme=dark&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stat )
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boy-Davis&show_icons=true&theme=dark&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
